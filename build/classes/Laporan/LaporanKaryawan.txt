@@ -1,0 +1,30 @@
+
+                                     DATA KARYAWAN
+
+  NIK   NAMA         TGL LAH ALAMAT     JK DEPARTEM JABATATGL MAS STATUS  BERLAKU
+  21122 Cahya        21-01-2 Malang     L  Service  Teknic01-01-2 Permane 2 Tahun
+  444444Aripin       30-03-1 Dau        L  Sales    CDE   10-04-2 Permane Pensiun
+  474706Raditya Adi W18-09-1 Jl. JembawaL  Operatio Fast  20-06-2 PKWTT   20-08-20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  1/19/23, 9:06 PM                         Page 1 of 1
+
+
